@@ -1,0 +1,9 @@
+{
+  "projectId": "72684015",
+  "functions": {
+    "ocr-passport": {
+      "hasChanged": false,
+      "hash": "058ac9fb280b969afa7cfc99cf970d1fa6a59e35b4626449c100de80d1f6686c"
+    }
+  }
+}

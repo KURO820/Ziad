@@ -1,0 +1,2 @@
+[functions.ocr-passport]
+verify_jwt = true
